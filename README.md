@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuel-owie
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently working on Flutter and Dart projects
+- 🌱 I’m currently working on MEAN Stack projects while building Flutter and Dart projects alongside
 - 💞️ I’m looking to collaborate on information system archival mechanisms
 - 📫 How to reach me Twitter: Lord_Sammi_
 
